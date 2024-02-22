@@ -1,0 +1,13 @@
+coalmine.AvroAlias$Provider
+coalmine.logicalTypes.UuidFormat$Provider
+coalmine.NamedTypeTrait$Provider
+coalmine.AvroEnabled$Provider
+coalmine.AvroNamespace$Provider
+coalmine.AvroName$Provider
+coalmine.RpcAvro$Provider
+coalmine.logicalTypes.AvroTimeTrait$Provider
+coalmine.AvroSchema$Provider
+coalmine.AvroDecimalTrait$Provider
+coalmine.AvroOrderTrait$Provider
+coalmine.logicalTypes.UuidFormat$Provider
+coalmine.ScaleTrait$Provider
